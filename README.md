@@ -1,4 +1,4 @@
-# 官网运营抽奖活动 leancloud 后台本地调试项目
+# 基于 leancloud 的抽奖app  后台本地调试项目
 
 一个简单的使用 Express 4 的 Node.js 应用。
 可以运行在 LeanEngine Node.js 运行时环境。
